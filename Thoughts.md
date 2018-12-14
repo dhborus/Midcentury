@@ -5,7 +5,7 @@
 3. Eventually the Freud - neo Freud sections need review.
 4. Some way to do less on this one and this one and this one in the teen age section.
 5. Emphasize the issue of loneliness as reworking whether society was too little or too much present. Touched upon the relationship of modernity and the self, of course.
-5. And, of course, delineate paragraphs.
+5. And, of course, delineate paragraphs.[@hardison1989, pp. 44-99.]
 
 
 
