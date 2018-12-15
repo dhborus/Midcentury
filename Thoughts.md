@@ -12,3 +12,7 @@
 Convinced on plain text advantages. Can use Ubuntu on MacBook and work with Atom, which I am increasingly impressed by. Can use Ulysses for an iPad mobile exchange with the iMac.
 
 Pretty cool. Can put off the purchase of an advanced laptop.
+
+Notes, of course, in plain text. put them in a folder under the project. One for Draft, one for Notes, one for bibliography, one for planning/outline and so forth.
+
+Think I can easily transfer between Atom and Ulysses. Again Pandoc is a marvellous program.
