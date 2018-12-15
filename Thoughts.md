@@ -15,4 +15,13 @@ Pretty cool. Can put off the purchase of an advanced laptop.
 
 Notes, of course, in plain text. put them in a folder under the project. One for Draft, one for Notes, one for bibliography, one for planning/outline and so forth.
 
-Think I can easily transfer between Atom and Ulysses. Again Pandoc is a marvellous program.
+Think I can easily transfer between Atom and Ulysses. Ulysses will have some appeal. Instantaneous saves, seamless move between devices.  Scrivener-Bookends to be put in mothballs.
+
+
+Do need to learn the following about Atom:
+
+1. Misspellings do not show up immediately.
+2. Use of terminal from within Atom.
+3. Thesaurus use
+4. Understanding panels. For awhile, far too busy.
+5. Possible packages.
