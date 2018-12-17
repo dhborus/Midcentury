@@ -11,7 +11,7 @@
 
 Convinced on plain text advantages. Can use Ubuntu on MacBook and work with Atom, which I am increasingly impressed by. Can use Ulysses for an iPad mobile exchange with the iMac.
 
-Pretty cool. Can put off the purchase of an advanced laptop.
+Pretty cool. Can put off the purchase of an advanced laptop (but might get a cheaper laptop, given the apparent battery problems of the Macbook Pro these days )
 
 Notes, of course, in plain text. put them in a folder under the project. One for Draft, one for Notes, one for bibliography, one for planning/outline and so forth.
 
