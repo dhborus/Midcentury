@@ -5,20 +5,16 @@
 3. Eventually the Freud - neo Freud sections need review.
 4. Some way to do less on this one and this one and this one in the teen age section.
 5. Emphasize the issue of loneliness as reworking whether society was too little or too much present. Touched upon the relationship of modernity and the self, of course.
-5. And, of course, delineate paragraphs.[@hardison1989, pp. 44-99.]
+5. And, of course, delineate paragraphs, unless I go with Ulysses.
 
 ### Computer process
 
-Convinced on plain text advantages. Can use Ubuntu on MacBook and work with Atom, which I am increasingly impressed by. Can use Ulysses for an iPad mobile exchange with the iMac.
+Might be best served here by finishing in Ulysses (Ipad and iMac) and doing Dreams/Consultants in Atom.
 
-Pretty cool. Can put off the purchase of an advanced laptop (but might get a cheaper laptop, given the apparent battery problems of the Macbook Pro these days )
+Have converted the MacBook to Ubuntu and the trackpad is . . . eh (frozen twice in two days). Might try mouse, although that is bulky, or a different distro.
+Worse the battery drains even faster in Ubuntu -- probably best to get a cheap laptop and go with that. Might try another distro.
 
-Notes, of course, in plain text. put them in a folder under the project. One for Draft, one for Notes, one for bibliography, one for planning/outline and so forth.
-
-Think I can easily transfer between Atom and Ulysses. Ulysses will have some appeal. Instantaneous saves, seamless move between devices.  Scrivener-Bookends to be put in mothballs.
-
-
-Do need to learn the following about Atom:
+### Atom problems
 
 1. Misspellings do not show up immediately.
 2. Use of terminal from within Atom.
