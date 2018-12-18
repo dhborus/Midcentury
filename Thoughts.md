@@ -22,7 +22,7 @@ Do need to learn the following about Atom:
 
 1. Misspellings do not show up immediately.
 2. Use of terminal from within Atom.
-3. Thesaurus use
+3. Thesaurus use -- important
 4. Understanding panels. For awhile, far too busy.
 5. Possible packages.
-6. Linux special
+6. Linux special {Settings and the window framework}
