@@ -25,3 +25,4 @@ Do need to learn the following about Atom:
 3. Thesaurus use
 4. Understanding panels. For awhile, far too busy.
 5. Possible packages.
+6. Linux special
