@@ -21,4 +21,6 @@ Worse the battery drains even faster in Ubuntu -- probably best to get a cheap l
 3. Thesaurus use -- important
 4. Understanding panels. For awhile, far too busy.
 5. Possible packages.
-6. Linux special {Settings and the window framework}
+6. nvAtom
+7. Awiki
+8. Pandoc-converter
