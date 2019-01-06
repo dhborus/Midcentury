@@ -5,14 +5,11 @@
 3. Eventually the Freud - neo Freud sections need review.
 4. Some way to do less on this one and this one and this one in the teen age section.
 5. Emphasize the issue of loneliness as reworking whether society was too little or too much present. Touched upon the relationship of modernity and the self, of course.
-5. And, of course, delineate paragraphs, unless I go with Ulysses.
+5. And, of course, delineate paragraphs, unless I go with Ulysses. Probably won't, although it would be nice to try Zettlr or Atom.[@taylor2003]
 
 ### Computer process
 
-Might be best served here by finishing in Ulysses (Ipad and iMac) and doing Dreams/Consultants in Atom.
-
-Have converted the MacBook to Ubuntu and the trackpad is . . . eh (frozen twice in two days). Might try mouse, although that is bulky, or a different distro.
-Worse the battery drains even faster in Ubuntu -- probably best to get a cheap laptop and go with that. Might try another distro.
+--Although I should have opted for a laptop, iMac as regular machine makes sense. Ubuntu does not. Terrible for batteries. -- iPad is not really a work machine. Might work with Ulysses.
 
 ### Atom problems
 
@@ -20,7 +17,7 @@ Worse the battery drains even faster in Ubuntu -- probably best to get a cheap l
 2. Use of terminal from within Atom.
 3. Thesaurus use -- important
 4. Understanding panels. For awhile, far too busy.
-5. Possible packages.
+5. Need to get autocomplete bibliography to work.
 6. nvAtom
 7. Awiki
 8. Pandoc-converter
