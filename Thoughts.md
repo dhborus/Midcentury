@@ -1,4 +1,9 @@
-## Tasks
+---
+title: Tasks
+author: Daniel H. Borus
+
+---
+
 
 1. Will need to rework Introduction to stress again the confusions of the self and the drive to posit a stable and predictable one.
 2. Will need to rewrite the body Introduction
