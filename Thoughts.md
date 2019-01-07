@@ -2,7 +2,7 @@
 title: Tasks
 subtitle: To Be Done
 author: Daniel H. Borus
-bibliography: /Users/dborus/Desktop/PDM/Library.json
+bibliography: /Users/dborus/Desktop/PDM/Sources.bib
 csl: /Users/dborus/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
 
 ---
@@ -18,7 +18,7 @@ csl: /Users/dborus/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
 
 5. Emphasize the issue of loneliness as reworking whether society was too little or too much present. Touched upon the relationship of modernity and the self, of course.
 
-5. And, of course, delineate paragraphs, unless I go with Ulysses. Probably won't, although it would be nice to try Zettlr or Atom.
+5. And, of course, delineate paragraphs, unless I go with Ulysses. Probably won't, although it would be nice to try Zettlr or Atom.[@brick1986a, 56.]
 
 ### Computer process
 
