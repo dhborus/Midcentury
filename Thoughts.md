@@ -10,7 +10,7 @@ csl: ~/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
 
 1. Will need to rework Introduction to stress again the confusions of the self and the drive to posit a stable and predictable one.
 
-2. Will need to rewrite the body Introduction.[@borus]
+2. Will need to rewrite the body Introduction.[@brick1986a]
 
 3. Eventually the Freud - neo Freud sections need review.
 
@@ -22,13 +22,13 @@ csl: ~/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
 
 ### Computer process
 
---Although I should have opted for a laptop, iMac as regular machine makes sense. Ubuntu does not. Terrible for batteries. -- iPad is not really a work machine. Might work with Ulysses.[@rosenberg1992, p. 44]
+--Although I should have opted for a laptop, iMac as regular machine makes sense. Ubuntu does not. Terrible for batteries. -- iPad is not really a work machine. Might work with Ulysses.[@rosenberg1992, p. 94]
 
 ### Atom problems
 
 1. Misspellings do not show up immediately.
 2. Use of terminal from within Atom.
-3. Thesaurus use -- important[@rauchway2005, p. 36]
+3. Thesaurus use -- important[@rauchway2005. By the way, I will have to clear up so many of these Zotero citations]
 4. Understanding panels. For awhile, far too busy.
 5. Need to get autocomplete bibliography to work.
 6. nvAtom
