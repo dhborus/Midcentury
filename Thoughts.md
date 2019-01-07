@@ -1,5 +1,6 @@
 ---
 title: Tasks
+subtitle: To Be Done
 author: Daniel H. Borus
 
 ---
@@ -14,7 +15,7 @@ author: Daniel H. Borus
 
 ### Computer process
 
---Although I should have opted for a laptop, iMac as regular machine makes sense. Ubuntu does not. Terrible for batteries. -- iPad is not really a work machine. Might work with Ulysses.
+--Although I should have opted for a laptop, iMac as regular machine makes sense. Ubuntu does not. Terrible for batteries. -- iPad is not really a work machine. Might work with Ulysses.[It has been a long time since Linux proved so unremittenly boring. See @Boyer, p.95]
 
 ### Atom problems
 
