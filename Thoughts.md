@@ -2,7 +2,7 @@
 title: Tasks
 subtitle: To Be Done
 author: Daniel H. Borus
-bibliography: /Users/dborus/Desktop/PDM/Sources.bib
+bibliography: /Users/dborus/Desktop/Sources.json
 csl: /Users/dborus/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
 
 ---
