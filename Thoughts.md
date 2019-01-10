@@ -14,7 +14,7 @@ csl: /Users/dborus/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
 
 3. Eventually the Freud - neo Freud sections need review.
 
-4. Some way to do less on this one and this one and this one in the teen age section.
+4. Some way to do less on this one and this one and this one in the teen age section.[@fischer1992, p. 66]
 
 5. Emphasize the issue of loneliness as reworking whether society was too little or too much present. Touched upon the relationship of modernity and the self, of course.
 
