@@ -1,8 +1,8 @@
 ---
 title: Running on empty
 author: Daniel H. Borus
-bibliography: /Users/dhborus/Desktop/Sources.json
-csl: /Users/dhborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
+bibliography: /Users/dborus/Desktop/Sources.json
+csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 
 ---
 Running on empty.[Ugh. Zettler is really slow and less easy to use than Atom. See  @wilmer2008, p. 76]
