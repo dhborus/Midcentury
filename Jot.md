@@ -17,3 +17,18 @@ Running on empty.
 -- Git Hub sometimes does not register changes. Not sure why. Close pane and then control-shift-9
 
 Important to work with notes and projects properly.
+
+--Big question-- which machine should be the main writing device? Which machine, in other words, is the most comfortable writing environment?
+
+- - iMac seems slower than one would hope.
+
+- - iMac gives all kinds of real estate. That is both helpful--breathing
+ for apps-- and not -- Ulysses seems ill-suited for so much space (might well change with new dual pane mode)
+
+- - MacBook is getting on in years -- although with Zotero and Atom or Ulysses, not much asked of it. Still probably won't go on much longer when new OS comes around. (Of course, no need to upgrade)
+
+- - MacBook gives mobility. Which is important just to get out of the house. Issue is whether it should be the main machine.
+
+- - iMac has info that might be needed in the short term -- and the programs.
+
+- - division of tasks: iMac at home; laptop/iPad mobile makes sense. Ulysses and plain text perfectly suited for tasks. 
