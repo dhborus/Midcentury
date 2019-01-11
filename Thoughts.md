@@ -26,9 +26,8 @@ csl: /Users/dborus/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
 
 ### Atom problems
 
-1. Misspellings do not show up immediately.
-2. Use of terminal from within Atom. (probably won't solve)
-3. Thesaurus use -- important
-4. Need to get autocomplete bibliography to work.
-5. Setting up nvAtom
-7. Setting up Awiki
+
+1. Use of terminal from within Atom. (probably won't solve)
+2. Thesaurus use -- important
+3. Setting up nvAtom
+4. Setting up Awiki
