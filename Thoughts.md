@@ -22,7 +22,7 @@ csl: /Users/dborus/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
 
 ### Computer process
 
---Although I should have opted for a laptop, iMac as regular machine makes sense. Ubuntu does not. Terrible for batteries. -- iPad is not really a work machine. Might work with Ulysses.
+--Although I should have opted for a laptop, iMac as regular machine makes sense. Ubuntu does not. Terrible for batteries. -- iPad is not really a work machine. Might work with Ulysses.[@tushnet2005]
 
 ### Atom problems
 
