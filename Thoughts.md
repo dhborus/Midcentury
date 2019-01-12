@@ -18,16 +18,4 @@ csl: /Users/dborus/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
 
 5. Emphasize the issue of loneliness as reworking whether society was too little or too much present. Touched upon the relationship of modernity and the self, of course.
 
-5. And, of course, delineate paragraphs, unless I go with Ulysses. Probably won't, although it would be nice to try Zettlr or Atom.
-
-### Computer process
-
---Although I should have opted for a laptop, iMac as regular machine makes sense. Ubuntu does not. Terrible for batteries. -- iPad is not really a work machine. Might work with Ulysses.[@tushnet2005]
-
-### Atom problems
-
-
-1. Use of terminal from within Atom. (probably won't solve)
-2. Thesaurus use -- important
-3. Setting up nvAtom
-4. Setting up Awiki
+5. And, of course, delineate paragraphs, unless I go with Ulysses. Probably won't, although it would be nice to try Zettlr or Atom.[@tushnet2005, p. 35]

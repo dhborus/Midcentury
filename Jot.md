@@ -5,7 +5,17 @@ bibliography: /Users/dborus/Desktop/Sources.json
 csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 
 ---
-Running on empty.
+
+### Atom problems
+
+
+1. Use of terminal from within Atom. (probably won't solve)
+2. Thesaurus use -- important
+3. Setting up nvAtom
+4. Setting up Awiki
+
+
+###Main Computer
 
 
 -- autocomplete.bibtex works on .md files. But has problems setting up after closing. Not sure particularly how to fix. Returning seems particularly idiosyncratic. Can, of course, use the Ulysses method to cite. It is a bit slower and requires Zotero to be open.
@@ -31,4 +41,4 @@ Important to work with notes and projects properly.
 
 - - iMac has info that might be needed in the short term -- and the programs.
 
-- - division of tasks: iMac at home; laptop/iPad mobile makes sense. Ulysses and plain text perfectly suited for tasks. 
+- - division of tasks: iMac at home; laptop/iPad mobile makes sense. Ulysses and plain text perfectly suited for tasks.
