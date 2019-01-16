@@ -48,4 +48,4 @@ Important to work with notes and projects properly.
 
 - Learn codes for open file, smart printing. And so on. Did learn that I can use pandoc to change docx to pdf. Want to know how to use smart typography, and open newly minted file.   
 
-- Learn how to add extra lines in Markdown. 
+- Learn how to add extra lines in Markdown. Solution: \s (where s stands for a space)
