@@ -14,8 +14,8 @@ csl: /Users/dborus/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
 
 3. Eventually the Freud - neo Freud sections need review.
 
-4. Some way to do less on this one and this one and this one in the teen age section.[@fischer1992, p. 66]
+4. Some way to do less on this one and this one and this one in the teen age section.
 
 5. Emphasize the issue of loneliness as reworking whether society was too little or too much present. Touched upon the relationship of modernity and the self, of course.
 
-5. And, of course, delineate paragraphs, unless I go with Ulysses. Probably won't, although it would be nice to try Zettlr or Atom.[@tushnet2005, p. 35]
+5. And, of course, delineate paragraphs, unless I go with Ulysses. Probably won't, although it would be nice to try Zettlr or Atom.
