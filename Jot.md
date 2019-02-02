@@ -9,7 +9,7 @@ csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 ### Atom problems
 
 
-1. Use of terminal from within Atom. (probably won't solve)
+1. Use of terminal from within Atom. (probably won't solve) -- can use DocDown
 2. Thesaurus use -- important
 3. Setting up nvAtom
 4. Setting up Awiki
