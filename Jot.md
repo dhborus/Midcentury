@@ -1,8 +1,8 @@
 ---
 title: Running on empty
 author: Daniel H. Borus
-bibliography: /Users/dborus/Desktop/Sources.json
-csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
+bibliography: /Users/dhborus/Desktop/Sources.json
+csl: /Users/dhborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 
 ---
 
@@ -31,7 +31,7 @@ Important to work with notes and projects properly.
 
 --Big question-- which machine should be the main writing device? Which machine, in other words, is the most comfortable writing environment?
 
-- iMac seems slower than one would hope.
+- iMac seems slower than one would hope.[@aaron1977]
 
 - iMac gives all kinds of real estate. That is both helpful--full view of writing and notes  
 - -- and not -- Ulysses seems ill-suited for so much space (might well change with new dual pane mode)
@@ -40,7 +40,7 @@ Important to work with notes and projects properly.
 
 - MacBook gives mobility. Which is important just to get out of the house. Issue is whether it should be the main machine.
 
-- iMac has info that might be needed in the short term -- and the programs.
+- iMac has info that might be needed in the short term -- and the programs.[@boris1986. p. 35]
 
 - division of tasks: iMac at home; laptop/iPad mobile makes sense. Ulysses and plain text perfectly suited for tasks.
 
