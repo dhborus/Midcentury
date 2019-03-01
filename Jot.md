@@ -22,7 +22,7 @@ csl: /Users/dhborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 
 --Does seem to help getting acb to work by exporting Zotero library.
 
---Zettlr is slow and problematic in the use of pandoc inside the app. Offers only one file at a time.
+--Zettlr is slow and problematic in the use of pandoc inside the app. Offers only one file at a time.[@asch1951; @asch1956; @milgram1963]
 
 -- Git Hub sometimes does not register changes. Not sure why. Close pane and then control-shift-9
 
