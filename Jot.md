@@ -31,7 +31,7 @@ Important to work with notes and projects properly.
 
 --Big question-- which machine should be the main writing device? Which machine, in other words, is the most comfortable writing environment?
 
-- iMac seems slower than one would hope.[@aaron1977]
+- iMac seems slower than one would hope.[@aaron1977, p.55]
 
 - iMac gives all kinds of real estate. That is both helpful--full view of writing and notes  
 - -- and not -- Ulysses seems ill-suited for so much space (might well change with new dual pane mode)
@@ -42,7 +42,8 @@ Important to work with notes and projects properly.
 
 - iMac has info that might be needed in the short term -- and the programs.[@boris1986. p. 35]
 
-- division of tasks: iMac at home; laptop/iPad mobile makes sense. Ulysses and plain text perfectly suited for tasks.
+- division of tasks: iMac at home; laptop/iPad mobile makes sense. Ulysses and plain text perfectly suited for tasks.[@boris1986. p. 55]
+
 
 ### Pandoc and Markdown Questions
 
