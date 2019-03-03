@@ -12,11 +12,11 @@ csl: /Users/dhborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 1. Use of terminal from within Atom. (probably won't solve) -- can use DocDown
 2. Thesaurus use -- important
 3. Setting up nvAtom done (not that difficult--just converts Dropbox directory to searchable database)
-4. Setting up Awiki
+4. Setting up Awiki.[Relevant sources are @asch1951; @asch1956; @milgram1963]
 
 ### Pandoc and Markdown Questions
 
-- Learn codes for open file, smart printing. And so on. Did learn that I can use pandoc to change docx to pdf. Want to know how to use smart typography, and open newly minted file.   
+- Learn codes for open file, smart printing. And so on. Did learn that I can use pandoc to change docx to pdf. Want to know how to use smart typography, and open newly minted file.[See, for instance,  @boris1986]
 
 - Learn how to add extra lines in Markdown. Solution: \s (where s stands for a space)
 
@@ -36,12 +36,14 @@ csl: /Users/dhborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 
 Important to work with notes and projects properly.
 
---Big question-- which machine should be the main writing device? Which machine, in other words, is the most comfortable writing environment?
+--Big question-- which machine should be the main writing device? Which machine, in other words, is the most comfortable writing environment?[@boris1986]
 
-- iMac seems slower than one would hope.[@aaron1977, p.55] but gives all kinds of real estate. That is nice for Atom, less so at the moment for Ulysses.
+- iMac seems slower than one would hope, but gives all kinds of real estate. That is nice for Atom, less so at the moment for Ulysses.
 
 - MacBook is getting on in years -- although with Zotero and Atom or Ulysses, not much asked of it. Still probably won't go on much longer when new OS comes around. (Of course, no need to upgrade)
 
 - Although the MacBook gives mobility, which is important just to get out of the house, it has a short battery life. iPad will work with Ulysses
 
-- division of tasks: iMac at home; laptop/iPad mobile makes sense. Ulysses and plain text perfectly suited for tasks.[@boris1986. p. 55]
+- division of tasks: iMac at home; laptop/iPad mobile makes sense. Ulysses and plain text perfectly suited for tasks.
+
+\newpage
