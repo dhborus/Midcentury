@@ -36,7 +36,7 @@ csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 
 Important to work with notes and projects properly.
 
---Big question-- which machine should be the main writing device? Which machine, in other words, is the most comfortable writing environment?[@boris1986]
+--Big question-- which machine should be the main writing device? Which machine, in other words, is the most comfortable writing environment?
 
 - iMac seems slower than one would hope, but gives all kinds of real estate. That is nice for Atom, less so at the moment for Ulysses.
 
@@ -45,5 +45,3 @@ Important to work with notes and projects properly.
 - Although the MacBook gives mobility, which is important just to get out of the house, it has a short battery life. iPad will work with Ulysses
 
 - division of tasks: iMac at home; laptop/iPad mobile makes sense. Ulysses and plain text perfectly suited for tasks.
-
-\newpage
