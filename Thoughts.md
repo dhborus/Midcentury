@@ -18,4 +18,8 @@ csl: /Users/dborus/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
 
 5. Emphasize the issue of loneliness as reworking whether society was too little or too much present. Touched upon the relationship of modernity and the self, of course.
 
-5. And, of course, delineate paragraphs.
+6. And, of course, delineate paragraphs.
+
+7. Find those who made use of Milgram and Asch.
+
+8.

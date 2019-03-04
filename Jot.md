@@ -12,11 +12,11 @@ csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 1. Use of terminal from within Atom. (probably won't solve) -- can use DocDown
 2. Thesaurus use -- important
 3. Setting up nvAtom done (not that difficult--just converts Dropbox directory to searchable database)
-4. Setting up Awiki.[Relevant sources are @asch1951; @asch1956; @milgram1963]
+4. Setting up Awiki.
 
 ### Pandoc and Markdown Questions
 
-- Learn codes for open file, smart printing. And so on. Did learn that I can use pandoc to change docx to pdf. Want to know how to use smart typography, and open newly minted file.[See, for instance,  @boris1986]
+- Learn codes for open file, smart printing. And so on. Did learn that I can use pandoc to change docx to pdf. Want to know how to use smart typography, and open newly minted file.
 
 - Learn how to add extra lines in Markdown. Solution: \s (where s stands for a space)
 
@@ -25,23 +25,10 @@ csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 ### Main Computer Question
 
 
--- autocomplete.bibtex works on .md files. But has problems setting up after closing. Not sure particularly how to fix. Returning seems particularly idiosyncratic. Can, of course, use the Ulysses method to cite. It is a bit slower and requires Zotero to be open.
+-- Drop, at least for the moment, autocomplete.bibtex . Works inconsistently.
 
---Does seem to help getting acb to work by exporting Zotero library.
+-- Do not need Zettlr, except maybe as a note taker. Only has one pane and does not need a secon (third, really) plain text editor.
 
---Zettlr is slow and problematic in the use of pandoc inside the app. Offers only one file at a time. Doesn't seem to be much call for a second plain text editor.
+Even though the iMac can be slow, it is eye-friendly. Which is a boon these days. The Macbook is fairly slow. Can use it for mobile writing at the library or JCC, but it really isn't a permanent machine. Probably no need to update to the next operating system.
 
--- Git Hub sometimes does not register changes. Not sure why. Close pane and then control-shift-9
-
-
-Important to work with notes and projects properly.
-
---Big question-- which machine should be the main writing device? Which machine, in other words, is the most comfortable writing environment?
-
-- iMac seems slower than one would hope, but gives all kinds of real estate. That is nice for Atom, less so at the moment for Ulysses.
-
-- MacBook is getting on in years -- although with Zotero and Atom or Ulysses, not much asked of it. Still probably won't go on much longer when new OS comes around. (Of course, no need to upgrade)
-
-- Although the MacBook gives mobility, which is important just to get out of the house, it has a short battery life. iPad will work with Ulysses
-
-- division of tasks: iMac at home; laptop/iPad mobile makes sense. Ulysses and plain text perfectly suited for tasks.
+The iPad can be a mobile solution maybe for note-taking or some light editing. I suppose I could try Ulysses as a backup. Or for Chapters Four and Five.

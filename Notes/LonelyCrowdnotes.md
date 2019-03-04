@@ -1,0 +1,3 @@
+Notes on Riesman
+
+Key argument is that Riesman’s moderate temperament and politics and empirical research drive tempered the more extreme criticism of Fromm. Even though the book (LC) — suffered from overgeneralization about the state of the masses, miss the Tocqueville insight that the United States had always been more other -directed than Europe even as early as the 1820s, and the sociability of schools results from the general lack of tie-in between schooling and job. (p. 15)
