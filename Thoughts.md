@@ -22,4 +22,4 @@ csl: /Users/dborus/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
 
 7. Find those who made use of Milgram and Asch.
 
-8. 
+8. Cotkin suggestions
