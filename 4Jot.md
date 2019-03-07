@@ -1,6 +1,6 @@
 ---
-bibliography: /Users/dhborus/Desktop/Sources.json
-csl: /Users/dhborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
+bibliography: /Users/dborus/Desktop/Sources.json
+csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 ---
 
 #  Chapter Four:
