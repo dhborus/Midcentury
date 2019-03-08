@@ -13,7 +13,7 @@ Although much of *I Confess* is situated in the legal system of French Quebec, t
 
 Since the basic outlines of Logan's conflict appear in the first fifteen minutes or so of the film, it is no violation of the "No Spoiler" rule to say that *I Confess* turns on Logan hearing a confession from the church's caretaker admitting that he murdered in the course of a robbery the very man who was blackmailing Logan over a love affair that Logan had prior to his entering the priesthood.
 
-As the film proceeds, Father Michael increasingly falls under suspicion of the detective played by Karl Malden. Yet, given his obligation to God and the seal of the confessional, he can not actively clear his name. Technically, of course, Quebec law wouldn't allow into evidence anything he'd utter from what he learned in the confessional, but whether he could keep his vow under the pressure of his life itself is the drama here -- and the success or failure of the film rests on how much we believe the dilemma.
+As the film proceeds, Father Michael increasingly falls under suspicion of the detective played by Karl Malden. Yet, given his obligation to God and the seal of the confessional, he can not actively clear his name. Technically, of course, Quebec law wouldn't allow into evidence anything he'd utter from what he learned in the confessional, but whether he could keep his vow under the pressure of the threat to his liberty and his very life itself is the drama here -- and the success or failure of the film rests on how much we believe the dilemma.
 
 It was this that Hitchcock claimed that non-Catholics could make no sense of. I just read a Hindu critic, who praised the film but concluded that he simply had to accept the premise, even though it made no sense to him.
 
