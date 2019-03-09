@@ -1,4 +1,4 @@
-*I Confess* talk
+# *I Confess* talk
 \
 \
 13 March 2019
@@ -7,13 +7,15 @@
 
 *I Confess* occupies an ambiguous place in director Alfred Hitchcock's canon. The film first appeared in 1953, part of the early Fifties productive run of films that included *Strangers on a Train*, *Dial M for Murder*, _Rear Window_, and *To Catch a Thief*. Hitchcock thought the film failed to achieve the tonal balances he wanted, disliked some of his actors (although that was by no means unusual for him) and took exception to the original script. At bottom, Hitchcock thought the film too dependent on a Catholic sensibility and even told his famous interlocutor, Francois Truffaut, that "we shouldn't have made the picture."
 
-For European critics, however,  particularly those of the *Cahiers du Cinema* circle, *I Confess* is an under-appreciated classic, significant for its intense and smoldering portrayal of the transference of guilt and an inner turmoil.
+Others see it as a noble failure -- one of a series of Hitchcockian finger exercises that had the germ of a wonderful idea and moving moments that paved the way for later masterpieces.
+
+Still others,  particularly those of the *Cahiers du Cinema* circle, *I Confess* is an under-appreciated classic, significant for its intense and smoldering portrayal of the transference of guilt and an inner turmoil.
 
 Although much of *I Confess* is situated in the legal system of French Quebec, the drama is less a matter of the court's verdict than the internal torment of the lead character, Father Michael Logan, played by Montgomery Clift, who was then fresh off his triumph in *A Place in the Sun*.
 
 Since the basic outlines of Logan's conflict appear in the first fifteen minutes or so of the film, it is no violation of the "No Spoiler" rule to say that *I Confess* turns on Logan hearing a confession from the church's caretaker admitting that he murdered in the course of a robbery the very man who was blackmailing Logan over a love affair that Logan had prior to his entering the priesthood.
 
-As the film proceeds, Father Michael increasingly falls under suspicion of the detective played by Karl Malden. Yet, given his obligation to God and the seal of the confessional, he can not actively clear his name. Technically, of course, Quebec law wouldn't have allowed into evidence anything that Father Michael learned from confession anyway, but the heart of the film is Logan's dilemma of having the knowledge to clear himself but being unable to do so without betraying both his obligation to God and the self he became when he joined the Church.
+Subsequent reels rehearse the "wrong man" motif that dominated Hitchcock's films of the period as Father Michael increasingly falls under suspicion of the detective played by Karl Malden. Yet, given his obligation to God and the seal of the confessional, he can not actively clear his name. Technically, of course, Quebec law wouldn't have allowed into evidence anything that Father Michael learned from confession anyway, but the heart of the film is Logan's dilemma of having the knowledge to clear himself but being unable to do so without betraying both his obligation to God and the self he became when he joined the Church.
 
 Yes there are twists and turns -- it is a Hitchcock movie after all. And there is the great atmosphere of Quebec City and some masterful moments of composition with light and dark tones, but it is the seriousness of the confession for those who hear it and the duties it assigns that are the basis for *I Confess*.
 
@@ -31,4 +33,4 @@ Hitchcock didn't care what Clift thought-- he needed him to look up at that prec
 
 Clift sells the premise, champions of the film contend, because method or no, he displays “an air of total dignity at all times and only through his eyes that we sense his bewilderment at all the things that are happening to him.
 
-On reflection, Hitchcock concluded the picture shouldn't have been made. That it was is a reminder to us that some evidence might never come to us and the consequences can be dire.
+Hitchcock may have thought that the religious and ethnic particularity of the film limited its success, but even so it is a reminder to us that there are legitimate and meaningful motives that clash with those of self-preservation and self-interest.
