@@ -27,12 +27,11 @@ csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 
 -- Drop, at least for the moment, autocomplete.bibtex . Works inconsistently.
 
--- Do not need Zettlr, except maybe as a note taker. Only has one pane and does not need a secon (third, really) plain text editor.
+-- Do not need Zettlr, except maybe as a note taker. Only has one pane and does not need a second (third, really) plain text editor.
 
 Even though the iMac can be slow, it is eye-friendly. Which is a boon these days. The Macbook is fairly slow. Can use it for mobile writing at the library or JCC, but it really isn't a permanent machine. Probably no need to update to the next operating system.
 
 The iPad can be a mobile solution maybe for note-taking or some light editing. I suppose I could try Ulysses as a backup. Or for Chapters Four and Five.
 
-Was even going to try going Ulysses, but then got notice about Ulysses 15 that did not mention dual pane or . . . acknowledge a delay. So Atom (and Ulysses cancel)
 
-Oh -- and redo bibliography by reducing items to working on projects.
+Oh -- and redo bibliography by reducing items to working on projects. {this}
