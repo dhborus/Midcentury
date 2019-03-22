@@ -1,11 +1,15 @@
 ---
-bibliography: /Users/dborus/Desktop/Sources.json
-csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
+bibliography: /Users/dhborus/Desktop/Sources.json
+csl: /Users/dhborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 ---
 
 #  Chapter Four:
 
 ### The Decentered Search for the Centered Self
+\
+\
+Looking back on his sudden decision to light out for Europe, the narrator-protagonist of James Baldwin's _Giovanni's Room_, David, muses that he did so because "as we say in America, I wanted to find myself." The phrase, he adds, which does not appear "in the language of any other people," does not "mean what it says but betrays a nagging suspicion that something has been replaced." 
+
 
 Looking back on his sudden decision to light out for Europe, the narrator-protagonist of James Baldwin's _Giovanni's Room_ (1956), David, muses that he most likely did so because, "as we say in America, I wanted to find myself." The phrase, he adds, does not appear "in the language of any other people." It "certainly does not mean what it says but betrays a nagging suspicion that something has been misplaced." The sojourn in the Old World does little to help David resolve his confusion, especially his uncertainty about his sexual orientation. Vacillating between homosexual and heterosexual romances, David possesses no firm sense of who he is and whom he desires. Engaged to be married to an American girl, he nonetheless is in love with the title character, a bartender in a gay bar in Paris. Unable to accept his love, he abandons Giovanni. Subsequent meetings only underscore David's confusion and alienation. His internal conflict becomes a torment with the execution of Giovanni for the murder of the bar owner who fired and refused to rehire him. Wracked by guilt, unable to live with his fiancee, David admits that in the end he still has the “same self from which I had spent so much time in flight.”[Quotations from @baldwin1956, p. 39]
 
