@@ -14,6 +14,7 @@ A. Giovanni's Room
 
 B. Although Baldwin received criticism for making David white and gay and thus abandoning "black" subject matters, his choice underscored one of the central problems of the immediate postwar period, the evanescence and impermanence of the American self. Rightly saw the cultural obsession with anchoring the self, establishing the foundations through which authentic and genuine self-understanding could be built. Exacerbated by worries about the deleterious effects of impersonal and bureaucratic society in which traditional and meaningful attachments seemed attenuated and relationships proved especially thin. Especially true in suburbs.
 
+
 C. Postwar concern took on political cast --
 
 D. psychology
