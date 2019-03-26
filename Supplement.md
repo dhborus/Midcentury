@@ -5,6 +5,18 @@ Where once the paths to authentic and valid selfhood were understood to come abo
 
 The worries were not simply cultural but political
 
+@book{packard1957,
+  location = {{New York}},
+  title = {The Hidden Persuaders.},
+  pagetotal = {275},
+  publisher = {{D. McKay Co.}},
+  date = {1957},
+  keywords = {Advertising,Propaganda.},
+  author = {Packard, Vance}
+}
+
+\cite[levin1970]
+
 
 
 [^2]: Technically speaking, self and identity demarcate entities. Self is a reflection on and reference by an individual to him or herself. Identity is the condition of having a unique existence. In philosophy, identity relates to sameness across time. In practice, however, the terms have demonstrated a good deal of slippage so that continuity of self---constant awareness of the continuity of oneself---is taken in much literature as proof of coherent identity. See Gerald Izenberg, _Identity: The Necessity of a Modern Idea_ (Philadelphia: University of Pennsylvania Press, 2016), 1-15.
