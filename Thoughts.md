@@ -2,7 +2,7 @@
 title: Tasks
 subtitle: To Be Done
 author: Daniel H. Borus
-bibliography: /Users/dborus/Desktop/Sources.json
+bibliography: /Users/dborus/Desktop/Bibliography.bib
 csl: /Users/dborus/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
 
 ---
@@ -14,7 +14,7 @@ csl: /Users/dborus/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
 
 C. Postwar concern took on political cast --
 
-D. psychology
+D. psychology[@baldwin1956; @horowitz1994a]
 
 E. Points to the shift from soul to psyche -- Religion hardly disappeared -- period of significant religious thought. but psychology both intertwined and competed. Statistics. Therapy. and testing. Freud and Jung
 
