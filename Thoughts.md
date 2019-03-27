@@ -2,8 +2,8 @@
 title: Tasks
 subtitle: To Be Done
 author: Daniel H. Borus
-bibliography: /Users/dborus/Desktop/Sources.json
-csl: /Users/dborus/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
+bibliography: /Users/dborus/Desktop/Bibliography.bib
+csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 
 ---
 
@@ -13,7 +13,7 @@ csl: /Users/dborus/Desktop/PDM/chicago-fullnote-bibliography-with-ibid.csl
 
 
 
-E. Points to the shift from soul to psyche -- Religion hardly disappeared -- period of significant religious thought. but psychology both intertwined and competed. Statistics. Therapy. and testing. Freud and Jung and 
+E. Points to the shift from soul to psyche -- Religion hardly disappeared -- period of significant religious thought. but psychology both intertwined and competed. Statistics. Therapy. and testing. Freud and Jung and
 
 F.  Efforts proceeded along a number of dimensions and assumed a number of forms, and ruminated over a number of problems. For all therapy, a level of biological determinism even made itself felt. Central to the question of the search for a secure, meaningful, and aware self was the question of whether relations with others as constituted in postwar life were harmful or helpful. Were social bonds too strong or too weak? The condition of being a teenager brought together the somatic and social problems.
 
