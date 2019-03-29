@@ -23,7 +23,8 @@ Efforts in the "Age of Psychology" to find the foundations of a secure and stabl
 **Body and Self**
 \
 \
-The rise of talking cures  and advice columns put a premium on understanding the self as a matter of inclination, mind, and 
+Although the proliferating psychological schools differed widely over whether the self was inborn and inherent or more undeveloped and open to construction and reconstruction, most held that the self was an ethereal rather than material entity. The claims of the body--eating, sleeping, sexual activity, reproduction -- were, by and large, understood as inputs, the shape of which depended upon culture and the vicissitudes of selfhood.  
+
 
 Later generations have tended to regard the mid-twentieth century as a time in which Americans held rigid views of the relationship between self and its physical housing. Conventional wisdom, the story goes, insisted that a mature self recognized the biological imperatives of being human, accepted distinct and natural roles that suited one's body, and restrained and mastered bodily impulses. There were indeed plenty of injunctions against sexual expressions ranging from masturbation to homosexuality and a slew of strictures regarding proper gender roles. It is, however, salutary to recall that there were plenty challenges to the pat links between body and self. Freudians, for instance, warned that repression led to psychic damage that was, in any event, bound to fail.
 
