@@ -10,7 +10,7 @@ The manuscript is smart overall, deeply engaged with ideas – exactly what the 
 
 There are stylistic differences between some of the chapters. The Introduction, Chapters 1, 4. 7 tended to be more dense than others in the book, both in terms of style and content. While these chapters often had good topic sentences, the material in the paragraph sometimes veered away, making for some confusion. Sometimes, too, the tidal wave of names proved overwhelming, and, I think, unnecessary. A bit of editing would be welcome to make the excellence of these chapters more apparent and accessible to students.
 
-One other problem, easily solved, is repetition. Perhaps because there are three separate authors, a number of times figures considered earlier reappear in later chapters. This is not necessarily problematic, so long as stuff is not repeated from earlier. In my comments on particular chapters, I will point out a few occasions when I found this unnecessary. 
+One other problem, easily solved, is repetition. Perhaps because there are three separate authors, a number of times figures considered earlier reappear in later chapters. This is not necessarily problematic, so long as stuff is not repeated from earlier. In my comments on particular chapters, I will point out a few occasions when I found this unnecessary.
 
 Of course, all books in the series need to go their own way, in terms of what is covered – and what is neglected. I do wish, I must say that the authors had discussed the rise of Jewish novelists in the postwar period (after all, it would link to many of the themes in the book). I also would have liked to see some discussion of this period of High Modernism, especially in Architecture.
 
@@ -42,14 +42,14 @@ This really is a bravura chapter, although overwhelming at the same time. Perhap
 **Chapter Two: Inventing America, Again**
 As per last comment, this chapter approaches things with a lighter touch, focused on individuals and thought which is, I think, more accessible to readers.
 52. Finish with Matthiessen, then go on to Smith or Marx. Or better yet, drop reference to them.
-  You will return to Matthiessen later, but would it work to finish him here, making note of his homosexuality and suicide? 
+  You will return to Matthiessen later, but would it work to finish him here, making note of his homosexuality and suicide?
   Might this discussion include the Cold War notion of American destiny related to Puritan ideal of “A City Upon a Hill”?
 58. Stearns mentioned earlier.
 58. Kazin was also, in many ways, creating a tradition. Melville’s inclusion in the canon did not wait fully until this period. Link Lerner to your key concepts of consensus and centering.
 64. Ellison also opposed view of African-American culture as damaged. Instead, he focused on its vitality.
 64. Do we need so much of Tocqueville, especially at this point?
 67. At last, a return to “centering.”
- Good on women but what of the competing images in this period? 
+ Good on women but what of the competing images in this period?
 70. Adam’s Rib, I believe, was mentioned earlier. Might one reference be dropped?
 72. Give more sense of the full thrust of anti-communist purges, including gays?
 74. Now Riesman appears, but he was promised earlier.
@@ -76,7 +76,7 @@ There is a difference between the early and later pages  of _Axel’s Castle_, d
 121. Niebuhr connects with Camus in opposition to ideologies. Relate to _The Rebel_?
 122. Boom-time for religion and its institutions. Yes, but isn’t there a shift occurring, with the rise of evangelical churches? Billy Graham and company. Again, this seems an appropriate place for Mr. Herberg.
 124. “Stream of Camp literature.” More of a trickle, at least according to Novick. Discussion of Arendt on issue of Eichmann and “Banality of Evil”?
-124. Weren’t Beats mentioned in previous chapter? 
+124. Weren’t Beats mentioned in previous chapter?
 124. Excellent on Suzuki and Centering here.
 127. Opened with Existentialism, finally returning to it.
 129. Freud was absolutely central to American thought in 1950s. More on this, as per Nathan Hale.
@@ -90,6 +90,7 @@ Nice to add Asch to Milgram, takes it away from the over-done.
 157. Separate paragraph for critique of Mead.
 158. Freud and Marx (Fromm), link with Marcuse (ah, does later)
 160. Explain “repressive desublimation”
+
 161. Riesman was discussed in Chap. 1.
 163. What of Riesman’s link with Arendt? _Time_ focus in that article, as I recall, was on how well-adjusted and social Reisman was.
 164. Autonomous individual lament, link with teens, _Rebel without a Cause_?
@@ -99,12 +100,13 @@ Nice to add Asch to Milgram, takes it away from the over-done.
 172. Frank did have a logic to organization of his images. And, compared to other photographers, he was especially drawn to black Americans.
 172. Great on Tooker, too. Relate him to Hopper?
 175. Better opening for the paragraph. Too much happening. Sinatra’s _In the Wee Small Hours_ is central. Unclear how Ricky and rock relate.
+
 179. Ah, “the young and the restless,” good. But what of cloud of nuclear annihilation that hangs over this generation?
 183. Anti-Momism as widespread. What of Wylie and others.
 184. A bit more on Goodman before moving to Friedan. Relate to Erickson’s idea of a moratorium period? Statistics on women for this period, in relation to Elaine May’s ideas? Ditto to demographics on teens and consumerism?
 
 **Chapter Five: American Inclusion and Its Discontents”**
-195. Family of man as universalism and humanity redivivus. Place in face of nuclear holocaust fear. Offerings in the show were quite varied, included a number of early Robert Franks. Yes, about American diversity as linked with freedom. This would apply to Cold War notion of painting – different styles expresses American freedom. 
+195. Family of man as universalism and humanity redivivus. Place in face of nuclear holocaust fear. Offerings in the show were quite varied, included a number of early Robert Franks. Yes, about American diversity as linked with freedom. This would apply to Cold War notion of painting – different styles expresses American freedom.
 198. Connect Pluralism with counter-veiling powers thesis before going into Labor?
 Decline of class. Link with Americanization, rise of suburbs?
 Working-class assimilation. Once again, another spot for Herberg.
@@ -160,11 +162,3 @@ Baldwin, again?!
 The conclusion seems abrupt here. Why not push idea that by 1962 it was clear that the center would no longer hold, for a host of reasons, so you get this shift in emphasis. Pushing of the envelope in American culture, or my notion of excess? End with how Warhol, for instance, marks such a break with Abstract Expressionists and Modernism? Just a suggestion. Or with the Port Huron statement.
 
 Conclusion to conclusion seemed abrupt to me.
-
-
-
-
-
-
-
-
