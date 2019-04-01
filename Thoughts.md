@@ -13,7 +13,7 @@ csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 
 
 
-Begin 1 April with "Despite their opposition"
+Begin 1 April with "Despite their opposition" about Montagu and Mead
 
 3. Eventually the Freud - neo Freud sections need review.
 
@@ -23,6 +23,6 @@ Begin 1 April with "Despite their opposition"
 
 6. And, of course, delineate paragraphs.
 
-7. Find those who made use of Milgram and Asch.
+7. Find those who made use of Milgram and Asch.[@milgram1963 and @asch1951]
 
 8. Cotkin suggestions
