@@ -98,4 +98,4 @@ Although most debate revolved around how the body determined identity, there wer
 
 [^25]:	Herbert Marcuse, _Eros and Civilization: A Philosophical Inquiry into Freud_ (Boston: Beacon Press, 1955), 47.
 
-[^26]:	Christine Jorgensen, _Christine Jorgensen: A Personal Autobiography_ (San Francisco: Cleis Press, 2000); Joanne J. Meyerowitz, _How Sex Changed: A History of Transsexuality in the United States_ (Cambridge: Harvard University Press, 2002).
+[^26]: Christine Jorgensen, _Christine Jorgensen: A Personal Autobiography_ (San Francisco: Cleis Press, 2000); Joanne J. Meyerowitz, _How Sex Changed: A History of Transsexuality in the United States_ (Cambridge: Harvard University Press, 2002).
