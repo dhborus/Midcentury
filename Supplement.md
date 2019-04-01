@@ -156,7 +156,7 @@ Notes
 
 [^15]:	Ashley Montagu, _The Natural Superiority of Women_ (New York: Macmillan, 1953), 143, 147. Emphasis in the original.
 
-[^16]:	Eve Merriam, _After Nora Slammed the Door _(Cleveland: World Pub. Co., 1964), 187.
+[^16]:	Eve Merriam, *After Nora Slammed the Door* (Cleveland: World Pub. Co., 1964), 187.
 
 [^17]:	Margaret Mead, _Male and Female: A Study of the Sexes in a Changing World._ (New York: W. Morrow, 1949).
 

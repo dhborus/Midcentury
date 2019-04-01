@@ -13,10 +13,7 @@ csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 
 
 
-F.  Efforts proceeded along a number of dimensions and assumed a number of forms, and ruminated over a number of problems. For all therapy, a level of biological determinism even made itself felt. Central to the question of the search for a secure, meaningful, and aware self was the question of whether relations with others as constituted in postwar life were harmful or helpful. Were social bonds too strong or too weak? The condition of being a teenager brought together the somatic and social problems.
-
-2. Will need to rewrite the body Introduction.
-key here is that body bequeathed self, best for society to recognize and adapt accordingly.
+Begin 1 April with "Despite their opposition"
 
 3. Eventually the Freud - neo Freud sections need review.
 
