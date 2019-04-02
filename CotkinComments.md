@@ -105,7 +105,8 @@ Nice to add Asch to Milgram, takes it away from the over-done.
 183. Anti-Momism as widespread. What of Wylie and others.
 184. A bit more on Goodman before moving to Friedan. Relate to Erickson’s idea of a moratorium period? Statistics on women for this period, in relation to Elaine May’s ideas? Ditto to demographics on teens and consumerism?
 
-**Chapter Five: American Inclusion and Its Discontents”**
+**Chapter Five: American Inclusion and Its Discontents”** [Decide what to do about Friedan and analysis]
+
 195. Family of man as universalism and humanity redivivus. Place in face of nuclear holocaust fear. Offerings in the show were quite varied, included a number of early Robert Franks. Yes, about American diversity as linked with freedom. This would apply to Cold War notion of painting – different styles expresses American freedom.
 198. Connect Pluralism with counter-veiling powers thesis before going into Labor?
 Decline of class. Link with Americanization, rise of suburbs?
