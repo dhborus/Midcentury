@@ -15,20 +15,13 @@ csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 
 Begin 1 April with "Despite their opposition" about Montagu and Mead
 
-Loneliness -- April 2 & 3
+biology when accepted -- check out.
+Loneliness -- April 4 & 5
 
-Teenagers -- April 4 & 5
+Teenagers -- April 6 & 7
 
 Chapter Five
 
-3. Eventually the Freud - neo Freud sections need review.
-
 4. Some way to do less on this one and this one and this one in the teen age section.
-
-5. Emphasize the issue of loneliness as reworking whether society was too little or too much present. Touched upon the relationship of modernity and the self, of course.
-
-6. And, of course, delineate paragraphs.
-
-7. Find those who made use of Milgram and Asch.[@milgram1963 and @asch1951]
 
 8. Cotkin suggestions[@fromm2010]
