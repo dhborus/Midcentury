@@ -138,9 +138,9 @@ Notes
 
 [^27]:	David Riesman, _The Lonely Crowd: A Study of the Changing American Character_ (New Haven: Yale University Press, 1952), xiv. See 13-6, 87-95, 109-125, 159-60 for a discussion of inner-direction. Other-directed is handled on 19-24 31-36, 96-108, 126-160.
 
-[^28]:	Criticism of the conformist view of the suburbs can be found in Herbert J. Gans, _The Levittowners: Ways of Life and Politics in a New Suburban Community _(New York: Institute of Urban Studies, Teachers College, Columbia University, 1965). Criticism of Packard can be found in Lewis Coser, “Kitsch Sociology” _Partisan Review_ (Summer 1959): 480-3. Whyte’s guide to cheating on personality tests is the Appendix to William H. Whyte, _The Organization Man _(Garden City: Doubleday, 1956), 405-10.
+[^28]:	Criticism of the conformist view of the suburbs can be found in Herbert J. Gans, _The Levittowners: Ways of Life and Politics in a New Suburban Community _(New York: Institute of Urban Studies, Teachers College, Columbia University, 1965). Criticism of Packard can be found in Lewis Coser, “Kitsch Sociology” _Partisan Review_ (Summer 1959): 480-3. Whyte’s guide to cheating on personality tests is the Appendix to William H. Whyte, _The Organization Man_(Garden City: Doubleday, 1956), 405-10.
 
-[^29]:	John G. Cawelti, _The Six-Gun Mystique_ (Bowling Green, Ohio: Bowling Green State University Popular Press, 1984); Richard Slotkin, _Gunfighter Nation: The Myth of the Frontier in Twentieth-Century America_ (Norman: University of Oklahoma Press, 1998).
+[^33]:	John G. Cawelti, *The Six-Gun Mystique* (Bowling Green, Ohio: Bowling Green State University Popular Press, 1984); Richard Slotkin, _Gunfighter Nation: The Myth of the Frontier in Twentieth-Century America_ (Norman: University of Oklahoma Press, 1998).
 
 [^30]:	Jack Kerouac, _On the Road._ (New York: Viking Press, 1957), 8,180.
 
