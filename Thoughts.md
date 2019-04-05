@@ -22,6 +22,6 @@ Teenagers -- April 6 & 7
 
 Chapter Five
 
-4. Some way to do less on this one and this one and this one in the teen age section.
+4. Some way to do less on this one and *this* one and this one in the teen age section.
 
 8. Cotkin suggestions[@fromm2010]

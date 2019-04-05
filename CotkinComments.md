@@ -85,7 +85,7 @@ But on p. 134, he is found not as “learned and eloquent” as Weaver. Well, I 
 
 **Chapter Four: The Search for a Centered Self**
 Nice to add Asch to Milgram, takes it away from the over-done.
-148. Ah, Freud again. What about the discover of TEENS as a new category and implications for consumerism in this period? Sheldon discussion is excellent, but unclear to me why, exactly, his ideas were racist.
+<!-- 148. Ah, Freud again. What about the discover of TEENS as a new category and implications for consumerism in this period? Sheldon discussion is excellent, but unclear to me why, exactly, his ideas were racist.
 151. I didn’t know Montagu was Jewish.
 157. Separate paragraph for critique of Mead.
 158. Freud and Marx (Fromm), link with Marcuse (ah, does later)
@@ -95,7 +95,7 @@ Nice to add Asch to Milgram, takes it away from the over-done.
 163. What of Riesman’s link with Arendt? _Time_ focus in that article, as I recall, was on how well-adjusted and social Reisman was.
 164. Autonomous individual lament, link with teens, _Rebel without a Cause_?
 167. Beats. Rebellion, yes, but how also fit into period, as with their sexism.
-168. Back to existentialism!
+168. Back to existentialism! -->
 171. A quote from Port Huron or _Liberation_ to drive home point.
 172. Frank did have a logic to organization of his images. And, compared to other photographers, he was especially drawn to black Americans.
 172. Great on Tooker, too. Relate him to Hopper?
