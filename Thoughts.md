@@ -16,7 +16,7 @@ csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 Begin 1 April with "Despite their opposition" about Montagu and Mead
 
 biology when accepted -- check out.
-Loneliness -- April 4 & 5
+Loneliness -- April 4 & 5 [Begin Whyte and Packard's lament]
 
 Teenagers -- April 6 & 7
 
