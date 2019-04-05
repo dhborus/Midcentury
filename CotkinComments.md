@@ -96,9 +96,9 @@ Nice to add Asch to Milgram, takes it away from the over-done.
 164. Autonomous individual lament, link with teens, _Rebel without a Cause_?
 167. Beats. Rebellion, yes, but how also fit into period, as with their sexism.
 168. Back to existentialism! -->
-171. A quote from Port Huron or _Liberation_ to drive home point.
-172. Frank did have a logic to organization of his images. And, compared to other photographers, he was especially drawn to black Americans.
-172. Great on Tooker, too. Relate him to Hopper?
+<!-- 171. A quote from Port Huron or _Liberation_ to drive home point. -->
+<!-- 172. Frank did have a logic to organization of his images. And, compared to other photographers, he was especially drawn to black Americans. -->
+<!-- 172. Great on Tooker, too. Relate him to Hopper? -->
 175. Better opening for the paragraph. Too much happening. Sinatra’s _In the Wee Small Hours_ is central. Unclear how Ricky and rock relate.
 
 179. Ah, “the young and the restless,” good. But what of cloud of nuclear annihilation that hangs over this generation?
