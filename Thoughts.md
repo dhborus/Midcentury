@@ -10,15 +10,7 @@ csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 
 1. Will need to rework Introduction to stress again the confusions of the self and the drive to posit a stable and predictable one.
 
-
-
-
-Begin 1 April with "Despite their opposition" about Montagu and Mead
-
-biology when accepted -- check out.
-Loneliness -- April 4 & 5 [Begin Whyte and Packard's lament]
-
-Teenagers -- April 6 [Begin with Moustakas]& 7
+April 6 -- Division in the middle section between teenagers as inadequately disciplined, teenagers as inadequately guided (absence of meaningful models -- Goodman) and teenagers as overly controlled (Friedenberg) Henry's fit into a larger critique. 
 
 Chapter Five
 

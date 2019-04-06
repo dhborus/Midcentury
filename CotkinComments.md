@@ -99,10 +99,12 @@ Nice to add Asch to Milgram, takes it away from the over-done.
 <!-- 171. A quote from Port Huron or _Liberation_ to drive home point. -->
 <!-- 172. Frank did have a logic to organization of his images. And, compared to other photographers, he was especially drawn to black Americans. -->
 <!-- 172. Great on Tooker, too. Relate him to Hopper? -->
-175. Better opening for the paragraph. Too much happening. Sinatra’s _In the Wee Small Hours_ is central. Unclear how Ricky and rock relate.
+<!-- 175. Better opening for the paragraph. Too much happening. Sinatra’s _In the Wee Small Hours_ is central. Unclear how Ricky and rock relate. -->
 
 179. Ah, “the young and the restless,” good. But what of cloud of nuclear annihilation that hangs over this generation?
+
 183. Anti-Momism as widespread. What of Wylie and others.
+
 184. A bit more on Goodman before moving to Friedan. Relate to Erickson’s idea of a moratorium period? Statistics on women for this period, in relation to Elaine May’s ideas? Ditto to demographics on teens and consumerism?
 
 **Chapter Five: American Inclusion and Its Discontents”** [Decide what to do about Friedan and analysis]
