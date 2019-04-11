@@ -16,7 +16,12 @@ April 6 -- Division in the middle section between teenagers as inadequately disc
 
 Chapter Five
 
-4. Some way to do less on this one and *this* one and this one in the teen age section.
+Thursday 4/11 -- Finish Goodman, henry
+Reduce the verbiage on expressive culture
+
+Friday -- Riesman and cleanup
+
+
 
 8. Cotkin suggestions[@fromm2010]
 
