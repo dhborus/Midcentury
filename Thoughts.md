@@ -27,7 +27,7 @@ Friday -- Riesman and cleanup
 
 Possible addition to bibliography: The traditional argument holds that psychology and the therapeutic undercut religious strictures about holy and sanctified behavior by elevating psychic peace and adjustment. See [@rieff1966] and [@meyer1965]. [@stevens2010] has challenged the interpretation, contending that the turn to psychology was a complex and serious achievement of Protestant modernism, not reducible to simplistic pop psychological extrapolations.
 
-Possibly remove, footnote 22, Chapter Four
+Possibly remove, footnote 22, Chapter Four[@riesman1990]
 
 Reduce footnote 32, Chapter Four? Do we need second Horowitz reference and the criticism of the criticism.
 
