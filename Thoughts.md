@@ -8,7 +8,7 @@ csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 ---
 
 
-1. Will need to insist that acceptance of biology key to stable self in theory.
+1. Will need to insist that acceptance of biology key to stable self in theory.[@riesman1990]
 
 2. Find Erikson places for Mom.
 
@@ -19,7 +19,7 @@ Chapter Five
 Thursday 4/11 -- Finish Goodman, henry
 Reduce the verbiage on expressive culture
 
-Friday -- Riesman and cleanup[@riesman]
+Friday -- Riesman and cleanup.
 
 
 
