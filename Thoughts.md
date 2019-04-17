@@ -19,7 +19,7 @@ Chapter Five
 Thursday 4/11 -- Finish Goodman, henry
 Reduce the verbiage on expressive culture
 
-Friday -- Riesman and cleanup
+Friday -- Riesman and cleanup[@riesman]
 
 
 
