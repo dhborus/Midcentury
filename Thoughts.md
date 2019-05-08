@@ -9,9 +9,7 @@ csl: /Users/dborus/Desktop/chicago-fullnote-bibliography-with-ibid.csl
 
 Schedule:
 
-Monday  06 May 2019 -- Rewrite introduction
-
-Tuesday, Thursday -- Section One.
+Wednesday, Thursday -- Section One.
 
 Sunday - Monday -- Section Two
 
