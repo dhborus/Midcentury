@@ -109,7 +109,7 @@ Nice to add Asch to Milgram, takes it away from the over-done.
 
 **Chapter Five: American Inclusion and Its Discontents”** [Decide what to do about Friedan and analysis]
 
-195. Family of man as universalism and humanity redivivus. Place in face of nuclear holocaust fear. Offerings in the show were quite varied, included a number of early Robert Franks. Yes, about American diversity as linked with freedom. This would apply to Cold War notion of painting – different styles expresses American freedom.
+<!-- 195. Family of man as universalism and humanity redivivus. Place in face of nuclear holocaust fear. Offerings in the show were quite varied, included a number of early Robert Franks. Yes, about American diversity as linked with freedom. This would apply to Cold War notion of painting – different styles expresses American freedom.
 198. Connect Pluralism with counter-veiling powers thesis before going into Labor?
 Decline of class. Link with Americanization, rise of suburbs?
 Working-class assimilation. Once again, another spot for Herberg.
@@ -117,8 +117,8 @@ Rise of evangelicals. Better on p.84?
 209. Odd time for Herberg to appear, finally. Struggle for inclusion in films, perhaps? Repeat appearance for Myrdal.
 212. Unsure how Gottschalk and Jewish author belong in this paragraph.
 214. Jews, too, in baseball, i.e. Hank Greenberg.
-214. Clark’s “purported to show.” Didn’t they?
-223. Hansberry will reappear later.
+214. Clark’s “purported to show.” Didn’t they? -->
+
 227. Was Friedan’s plea for “common humanity” as weak as that of The Family of Man, or of Stampp?
 232f. Excellent on gays.
 238. Hard on Lieber and Stoller. Mention that they were Jewish, urban hipsters.
