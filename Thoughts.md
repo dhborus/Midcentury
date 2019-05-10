@@ -11,8 +11,7 @@ Schedule:
 
 Wednesday, Thursday -- Section One.
 
-Sunday - Monday -- Section Two
-
+Friday-Saturday-Sunday - Monday -- Section Two: Cotkin comments -- better evaluation of Friedan, Stampp, Myrdal
 Tuesday - Wednesday -- Section Three
 
 
@@ -29,3 +28,5 @@ Possible addition to bibliography: The traditional argument holds that psycholog
 
 
 Last two paragraphs of the Introduction.
+
+One of the obstacle to inclusion was 
