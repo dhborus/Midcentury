@@ -18,7 +18,9 @@ Tuesday - Wednesday -- Section Three
 
 viewed religion as a distinctive and defining identity that did not clash with their newly achieved one as American.
 
-Americans may have spoken more English at home (although Joshua Zeitz has demonstrated that well into the 1950s the languages of )
+Americans may have spoken more English at home (although Joshua Zeitz has demonstrated that well into the 1950s the languages of
+
+Myrdal initially found black people strange, particuarly their emotion-filled religious services.
 
 
 
@@ -29,4 +31,4 @@ Possible addition to bibliography: The traditional argument holds that psycholog
 
 Last two paragraphs of the Introduction.
 
-One of the obstacle to inclusion was 
+One of the obstacle to inclusion was
