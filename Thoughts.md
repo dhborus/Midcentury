@@ -15,14 +15,7 @@ Friday-Saturday-Sunday - Monday -- Section Two: Cotkin comments -- better evalua
 Tuesday - Wednesday -- Section Three
 
 
-
-viewed religion as a distinctive and defining identity that did not clash with their newly achieved one as American.
-
-Americans may have spoken more English at home (although Joshua Zeitz has demonstrated that well into the 1950s the languages of
-
-Myrdal initially found black people strange, particuarly their emotion-filled religious services.
-
-Racial liberals overestimated the ability of *Brown* to usher in a colorblind, inclusive society. The Court limited the impact when it ordered districts to dismantle their dual school systems "with all deliberate speed." Segregationists interpreted the phrase to mean "slow, if ever."
+Hansberry was equally suspicious of facile claims of universalism, particularly those that interpreted her famous play *Raisin in the Sun* as a tale about universal human persistance in the face of adversity.
 
 8. Cotkin suggestions[@fromm2010]
 
