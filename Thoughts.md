@@ -22,7 +22,7 @@ Americans may have spoken more English at home (although Joshua Zeitz has demons
 
 Myrdal initially found black people strange, particuarly their emotion-filled religious services.
 
-
+Racial liberals overestimated the ability of *Brown* to usher in a colorblind, inclusive society. The Court limited the impact when it ordered districts to dismantle their dual school systems "with all deliberate speed." Segregationists interpreted the phrase to mean "slow, if ever."
 
 8. Cotkin suggestions[@fromm2010]
 
