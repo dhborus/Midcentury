@@ -15,6 +15,8 @@ Friday-Saturday-Sunday - Monday -- Section Two: Cotkin comments -- better evalua
 Tuesday - Wednesday -- Section Three
 
 
+
+
 Hansberry was equally suspicious of facile claims of universalism, particularly those that interpreted her famous play *Raisin in the Sun* as a tale about universal human persistance in the face of adversity.
 
 8. Cotkin suggestions[@fromm2010]
