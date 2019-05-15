@@ -119,8 +119,8 @@ Rise of evangelicals. Better on p.84?
 214. Jews, too, in baseball, i.e. Hank Greenberg.
 214. Clark’s “purported to show.” Didn’t they? -->
 
-227. Was Friedan’s plea for “common humanity” as weak as that of The Family of Man, or of Stampp?
-232f. Excellent on gays.
+<!-- 227. Was Friedan’s plea for “common humanity” as weak as that of The Family of Man, or of Stampp?
+232f. Excellent on gays. -->
 238. Hard on Lieber and Stoller. Mention that they were Jewish, urban hipsters.
 245. Enclose “backbeat you can’t lose” in quotation marks.
 I think this chapter can use a better conclusion.
