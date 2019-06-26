@@ -1,1 +1,1 @@
-Collaborations are not always easy to pull off. But the three of us have found our collective work together on this project to be among the most rewarding experiences of our academic careers. 
+Scholarly collaborations are not always easy to pull off. For the three of us, our collective work on this project has been among the most rewarding experiences of our academic careers. Working together has allowed us new discoveries that have filled gaps in our knowledge and forced us to re-examine long-held views -- 
