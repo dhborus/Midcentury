@@ -10,4 +10,4 @@ Disadvantages: At some point Mac OS with be too advanced for hardware or the har
 
 Choice #2: Drop Ulysses; Do Scrivener and Atom. Former for notes in Dreams project. With Scrivener, I can move between iPad and Desktops, although the move to Markdown came from the difficulties in syncing. Atom works better, I think, and keeps open the possibility of using Linux. Only problem: Atom does not work and will not be made for iPad. Can use IA Writer and save to iCloud.
 
-Choice #3Linux laptop -- one machine. But this will not have Word, which I think I still need. 
+Choice #3Linux laptop -- one machine. But this will not have Word, which I think I still need. Autocomplete bibtex is the best citation package. Not sure why Zotero citations is not working. Do have workaround with global shortcut. Which will work -- uh oh, the github transfer seems out of whack.
